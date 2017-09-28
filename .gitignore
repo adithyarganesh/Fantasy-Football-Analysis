@@ -1,1 +1,3 @@
 *.csv
+pl_analysis .ipynb
+.ipynb_checkpoints
