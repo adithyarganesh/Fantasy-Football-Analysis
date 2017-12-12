@@ -1,3 +1,6 @@
+# Compiled python
+*.pyc
 *.csv
 pl_analysis .ipynb
+# IPython notebook checkpoints
 .ipynb_checkpoints
