@@ -1,6 +1,6 @@
 # Fantasy-Football-Analysis
 
-First gathered the links from which the data for each player has to be fetched using Selenium
+First gathered all the links from which the data for each player has to be fetched using Selenium
 Defined a function to crawl through each page and fetch the required data and save it as a json file
 The obtained data is then analysed and the players/teams performance is predicted using machine learning
 
