@@ -1,8 +1,8 @@
 # Fantasy-Football-Analysis
 
-First gathered all the links from which the data for each player has to be fetched using Selenium
-Defined a function to crawl through each page and fetch the required data and save it as a json file
-The obtained data is then analysed and the players/teams performance is predicted using machine learning
+  First gathered all the links from which the data for each player has to be fetched using Selenium
+  Defined a function to crawl through each page and fetch the required data and save it as a json file
+  The obtained data is then analysed and the players/teams performance is predicted using machine learning
 
 
 # Steps for running the script
@@ -18,6 +18,7 @@ The obtained data is then analysed and the players/teams performance is predicte
 
 # Selenium
 File: player_list.py
+
   The list of players who play in English premier league can be found here https://www.premierleague.com/players
   The above webpage is an infinite scrolling webpage so I used selenium to gather the list of players from the webpage using the
   selenium drivers
